@@ -21,7 +21,9 @@ This dataset was used to build an interactive Power BI Dashboard for business in
 
 <h2>Data visualization</h2>
 <p><strong> Description :</strong>Interactive Power BI dashboard showcasing data visualization and storytelling techniques, focusing on key insights, trends, and actionable findings..</p>
-![image](https://github.com/user-attachments/assets/c170cf87-b07b-4939-b0a1-a1e286d18d23)
+
+![image](https://github.com/user-attachments/assets/7a7dfb74-f1df-4a73-a3c9-dd96cdb93f62)
+
 
 **New meassures:-**
 
